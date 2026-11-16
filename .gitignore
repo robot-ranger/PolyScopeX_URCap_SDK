@@ -3,3 +3,5 @@ urcap-generator/**
 newurcap.sh
 run-simulator
 manifest-spec-*.json
+urcaps/**
+devcontainer-lock.json
